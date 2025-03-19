@@ -1,0 +1,27 @@
+  Id CommandLine
+  -- -----------
+   1 try "c:\Users\nirab\AppData\Local\Programs\Microsoft VS...
+   2 git init
+   3 git status
+   4 clear
+   5 gir add testing.py
+   6 git testing.py
+   7 git add testing.py
+   8 git add testing.py
+   9 git commit "add testing file"
+  10 git commit -m "add testing file"
+  11 clear
+  12 git status
+  13 git remote add origin git@github.com:NirabhraKoley/github-f...
+  14 git -v
+  15 git push -u origin main
+  16 clear
+  17 git remote -v
+  18 history
+  19 clear
+  20 mkdir git-demo-new
+  21 cd git-demo-new
+  22 clear
+  23 ls
+  24 git clone https://github.com/NirabhraKoley/github-for-devop... 
+  25 clear
